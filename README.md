@@ -1,4 +1,4 @@
-# TelethonMessageToHtmlConverter
+# TelethonMessageConverter
 Telegram/Telethon message with entities to HTML converter.
 It needs `message` and `entities` fields from `telethon.tl.custom.message.Message` objects. Use it like this:
 
